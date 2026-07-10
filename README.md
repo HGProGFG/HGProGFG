@@ -53,7 +53,7 @@
 [PROFILE_INFO]
 ────────────────────────────────
 University     : Swinburne University
-Location       : Not specified
+Location       : Melbourne
 Role           : Undergraduate CS Student
 Major          : Artificial Intelligence
 Focus          : AI and software development
