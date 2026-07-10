@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" width="985" height="530" font-size="16">
+  <style>
+    .key { fill: #ffa657; }
+    .value { fill: #a5d6ff; }
+    .muted { fill: #6e7681; }
+    text, tspan { white-space: pre; }
+  </style>
+  <rect width="985" height="530" rx="15" fill="#161b22"/>
+  <text x="15" y="30" fill="#c9d1d9">
+    <tspan x="15" y="30">              .-=========-.                 </tspan>
+    <tspan x="15" y="50">          .-'  .-'''''''-.  '-.             </tspan>
+    <tspan x="15" y="70">        .'   .'  .---.  '.   '.             </tspan>
+    <tspan x="15" y="90">       /    /   /     \   \    \            </tspan>
+    <tspan x="15" y="110">      ;    ;   |  .-.  |   ;    ;           </tspan>
+    <tspan x="15" y="130">      |    |   | (o o) |   |    |           </tspan>
+    <tspan x="15" y="150">      ;    ;   |  '-'  |   ;    ;           </tspan>
+    <tspan x="15" y="170">       \    \   \  _  /   /    /            </tspan>
+    <tspan x="15" y="190">        '.   '._ '---' _.'   .'             </tspan>
+    <tspan x="15" y="210">          '-._  '-----'  _.-'               </tspan>
+    <tspan x="15" y="230">              '---. .---'                   </tspan>
+    <tspan x="15" y="250">             .----| |----.                  </tspan>
+    <tspan x="15" y="270">            /     | |     \                 </tspan>
+    <tspan x="15" y="290">           /  .---' '---.  \                </tspan>
+    <tspan x="15" y="310">          /  /   HENRY   \  \               </tspan>
+    <tspan x="15" y="330">         |  |    PHAM     |  |              </tspan>
+    <tspan x="15" y="350">         |  |   [ AI ]    |  |              </tspan>
+    <tspan x="15" y="370">          \  \           /  /               </tspan>
+    <tspan x="15" y="390">           '._'-._____.-'_.'                </tspan>
+    <tspan x="15" y="410">              '--.   .--'                   </tspan>
+    <tspan x="15" y="430">                 | |                        </tspan>
+    <tspan x="15" y="450">             .---' '---.                    </tspan>
+    <tspan x="15" y="470">            /  learning  \                   </tspan>
+    <tspan x="15" y="490">           /___every_day__\                  </tspan>
+    <tspan x="15" y="510">              //     \\                      </tspan>
+  </text>
+  <text x="390" y="30" fill="#c9d1d9">
+    <tspan x="390" y="30">henry@pham ------------------------------------------------</tspan>
+    <tspan x="390" y="50" class="muted">. </tspan><tspan class="key">Role</tspan><tspan class="muted">: ......................... </tspan><tspan class="value">Undergraduate CS Student</tspan>
+    <tspan x="390" y="70" class="muted">. </tspan><tspan class="key">Major</tspan><tspan class="muted">: ........................ </tspan><tspan class="value">Artificial Intelligence</tspan>
+    <tspan x="390" y="90" class="muted">. </tspan><tspan class="key">University</tspan><tspan class="muted">: ................... </tspan><tspan class="value">Swinburne University</tspan>
+    <tspan x="390" y="110" class="muted">. </tspan><tspan class="key">Focus</tspan><tspan class="muted">: ........................ </tspan><tspan class="value">AI &amp; software development</tspan>
+    <tspan x="390" y="130" class="muted">. </tspan><tspan class="key">Status</tspan><tspan class="muted">: ....................... </tspan><tspan class="value">Always learning</tspan>
+    <tspan x="390" y="150">.</tspan>
+    <tspan x="390" y="170" class="muted">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="muted">: .. </tspan><tspan class="value">JavaScript, Java, Ruby, C#</tspan>
+    <tspan x="390" y="190" class="muted">. </tspan><tspan class="key">Languages.Web</tspan><tspan class="muted">: ............... </tspan><tspan class="value">HTML, CSS</tspan>
+    <tspan x="390" y="210" class="muted">. </tspan><tspan class="key">Learning</tspan><tspan class="muted">: ..................... </tspan><tspan class="value">AI, local retrieval</tspan>
+    <tspan x="390" y="230">.</tspan>
+    <tspan x="390" y="250" class="muted">. </tspan><tspan class="key">Projects.AI</tspan><tspan class="muted">: ................. </tspan><tspan class="value">mnemosyne-knowledge-twin</tspan>
+    <tspan x="390" y="270" class="muted">. </tspan><tspan class="key">Projects.Other</tspan><tspan class="muted">: .............. </tspan><tspan class="value">Java, Ruby, OOP coursework</tspan>
+    <tspan x="390" y="290">.</tspan>
+    <tspan x="390" y="310">- Contact --------------------------------------------------</tspan>
+    <tspan x="390" y="330" class="muted">. </tspan><tspan class="key">Email</tspan><tspan class="muted">: .......................... </tspan><tspan class="value">pnmh06@gmail.com</tspan>
+    <tspan x="390" y="350" class="muted">. </tspan><tspan class="key">Discord</tspan><tspan class="muted">: ......................... </tspan><tspan class="value">1henry</tspan>
+    <tspan x="390" y="370" class="muted">. </tspan><tspan class="key">GitHub</tspan><tspan class="muted">: ......................... </tspan><tspan class="value">HGProGFG</tspan>
+    <tspan x="390" y="390" class="muted">. </tspan><tspan class="key">Open to</tspan><tspan class="muted">: ........................ </tspan><tspan class="value">Collaboration</tspan>
+    <tspan x="390" y="410">.</tspan>
+    <tspan x="390" y="430">- GitHub Stats ---------------------------------------------</tspan>
+    <tspan x="390" y="450" class="muted">. </tspan><tspan class="key">Repos</tspan><tspan class="muted">: ........................... </tspan><tspan class="value">6</tspan><tspan class="muted"> | Stars: </tspan><tspan class="value">0</tspan>
+    <tspan x="390" y="470" class="muted">. </tspan><tspan class="key">Followers</tspan><tspan class="muted">: ....................... </tspan><tspan class="value">0</tspan><tspan class="muted"> | Following: </tspan><tspan class="value">1</tspan>
+    <tspan x="390" y="490" class="muted">. </tspan><tspan class="key">Contributions</tspan><tspan class="muted">: ................. </tspan><tspan class="value">8 last year</tspan>
+    <tspan x="390" y="510" class="muted">. </tspan><tspan class="key">Motto</tspan><tspan class="muted">: .......................... </tspan><tspan class="value">learn(); build(); share();</tspan>
+  </text>
+</svg>
